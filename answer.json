@@ -1,0 +1,23 @@
+{
+  "update_id": 895120874,
+  "message": {
+    "message_id": 7,
+    "from": {
+      "id": 394828462,
+      "is_bot": false,
+      "first_name": "Богдан",
+      "last_name": "Заводчиков",
+      "username": "bzdv1",
+      "language_code": "ru"
+    },
+    "chat": {
+      "id": 394828462,
+      "first_name": "Богдан",
+      "last_name": "Заводчиков",
+      "username": "bzdv1",
+      "type": "private"
+    },
+    "date": 1516656393,
+    "text": "bogdan"
+  }
+}
